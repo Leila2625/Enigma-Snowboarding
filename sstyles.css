@@ -2,7 +2,7 @@ styles.css {
   
 }
 
-body {
+body *{
 	padding: 70px
 }
 
@@ -14,5 +14,11 @@ a {
 a {
   padding: 20px;
 }
+
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
 
 

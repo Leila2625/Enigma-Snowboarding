@@ -7,3 +7,16 @@ a {
 	font-size: 30px; 
 	color: white;
 }
+/* Styles for screens with a maximum width of 600px */
+@media (max-width: 600px) {
+  .menu {
+    display: none;
+  }
+}
+
+/* Styles for screens with a minimum width of 601px */
+@media (min-width: 601px) {
+  .menu {
+    display: block;
+  }
+}

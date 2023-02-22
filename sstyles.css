@@ -2,23 +2,8 @@ styles.css {
   
 }
 
-body *{
-	padding: 70px
-}
-
 a {
 	font-family: 'Overwave'; 
 	font-size: 30px; 
 	color: white;
 }
-a {
-  padding: 20px;
-}
-
-/* Use a media query to add a breakpoint at 800px: */
-@media screen and (max-width: 800px) {
-  .left, .main, .right {
-    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-  }
-
-

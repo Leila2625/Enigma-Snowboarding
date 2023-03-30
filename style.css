@@ -10,35 +10,10 @@ style.css {
   }
 
 a {
-	font-family: 'Overwave'; 
-	font-size: 30px; 
-	color: white;
+	font-family: 'Spectral', serif;
 }
-h1 {
-	font-family: 'Overwave'; 
-	font-size: 30px; 
-	color: white;
-}
-h2 {
-	font-family: 'Overwave'; 
-	font-size: 30px; 
-	color: white;
-}
-p {
-	font-family: 'Overwave'; 
-	font-size: 30px; 
-	color: white;
-}
-
-@media screen (min-width: 320px) and (max-width: 768px)
-	img {
-	padding: 15px;
-	width:100%;
-}
-li { 
-	font-size:100%;
-	color:blue;
-	list-style-type: star
+ul {
+	font-family: 'Spectral', serif;
 }
 
 #wrapper {width:95%;  margin: 0 auto; }

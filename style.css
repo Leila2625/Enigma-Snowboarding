@@ -24,6 +24,11 @@ h2 {
 	font-size: 30px; 
 	color: white;
 }
+p {
+	font-family: 'Overwave'; 
+	font-size: 30px; 
+	color: white;
+}
 
 @media screen (min-width: 320px) and (max-width: 768px)
 	img {

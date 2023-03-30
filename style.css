@@ -1,6 +1,36 @@
 style.css {
   
 }
+a {
+	font-family: 'Overwave'; 
+	font-size: 30px; 
+	color: white;
+}
+h1 {
+	font-family: 'Overwave'; 
+	font-size: 30px; 
+	color: white;
+}
+h2 {
+	font-family: 'Overwave'; 
+	font-size: 30px; 
+	color: white;
+}
+p {
+	font-family: 'Overwave'; 
+	font-size: 30px; 
+	color: white;
+}
+li { 
+	font-size:30px;
+	color:white;
+}
+
+@media screen (min-width: 320px) and (max-width: 768px)
+	img {
+	padding: 15px;
+	width:100%;
+}
 
 @media (max-width: 768px) {
   /* Styles for screens smaller than 768px */
@@ -8,13 +38,6 @@ style.css {
 * {
 	box-sizing: border-box;
   }
-
-a {
-	font-family: 'Spectral', serif;
-}
-ul {
-	font-family: 'Spectral', serif;
-}
 
 #wrapper {width:95%;  margin: 0 auto; }
 

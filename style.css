@@ -29,6 +29,10 @@ p {
 	font-size: 30px; 
 	color: white;
 }
+ul {
+	list-style-type: {
+		&#9733;
+}
 
 @media screen (min-width: 320px) and (max-width: 768px)
 	img {

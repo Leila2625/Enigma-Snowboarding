@@ -2,28 +2,29 @@ style.css {
   
 }
 a {
-	font-family: 'Overwave'; 
+	font-family: 'Helvetica'; 
 	font-size: 30px; 
 	color: white;
 }
 h1 {
-	font-family: 'Overwave'; 
+	font-family: 'Helvetica'; 
 	font-size: 30px; 
 	color: white;
 }
 h2 {
-	font-family: 'Overwave'; 
+	font-family: 'Helvetica'; 
 	font-size: 30px; 
 	color: white;
 }
 p {
-	font-family: 'Overwave'; 
+	font-family: 'Helvetica'; 
 	font-size: 30px; 
 	color: white;
 }
 li { 
 	font-size:30px;
 	color:white;
+	font-family:Helvetica;
 }
 
 @media screen (min-width: 320px) and (max-width: 768px)

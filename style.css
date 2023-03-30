@@ -35,6 +35,11 @@ p {
 	padding: 15px;
 	width:100%;
 }
+li { 
+	   font-size:500%;
+	color:blue;
+	">&bigstar;
+}
 
 #wrapper {width:95%;  margin: 0 auto; }
 

@@ -36,9 +36,9 @@ p {
 	width:100%;
 }
 li { 
-	   font-size:500%;
+	font-size:100%;
 	color:blue;
-	">&bigstar;
+	list-style-type: star
 }
 
 #wrapper {width:95%;  margin: 0 auto; }

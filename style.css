@@ -31,19 +31,6 @@ body {
 	font-size: 20px; 
 	color: white;
 }
-linux-details {
-	width: 50%;
-	padding: 1%;
-
-}
-linux-img {
-	height: 400px;
-	width: 300px;
-	margin-left: 30%;
-	float: left;
-
-}
-
 
 @media screen (min-width: 320px) and (max-width: 768px)
 	img {

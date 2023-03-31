@@ -31,6 +31,7 @@ body {
 	font-family: 'Helvetica'; 
 	font-size: 30px; 
 	color: white;
+	text-align:right;
 }
 
 @media screen (min-width: 320px) and (max-width: 768px)

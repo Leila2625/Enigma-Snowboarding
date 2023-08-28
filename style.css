@@ -8,7 +8,6 @@ a {
 	font-size: 30px; 
 	color: white;
 	text-decoration: none;
-    	cursor: box spiral;
 }
 
 h1 {
@@ -35,7 +34,6 @@ body {
 	font-family: '1UP!'; 
 	font-size: 20px; 
 	color: white;
-	cursor: url('https://i.imgur.com/ggpXQxO.png'), auto;
 }
 
 @media screen (min-width: 320px) and (max-width: 768px)

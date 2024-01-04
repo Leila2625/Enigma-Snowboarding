@@ -1,0 +1,14 @@
+body {
+    color: white;
+}
+
+#playlistContent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@font-face {
+    font-family: "Dumb";
+    src: url("3dumb/3Dumb.ttf");
+}
+

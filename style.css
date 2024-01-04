@@ -2,11 +2,6 @@ style.css {
   
 }
 
-@font-face {
-    font-family: '3dumbregular';
- src: url('3Dumb-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
 
 a {
 	font-size: 30px; 
@@ -24,16 +19,16 @@ h2 {
 }
 p {
 	font-size: 20px; 
-	color: white;
+	color: rgb(240, 240, 242);
 }
 li { 
 	font-size:30px;
-	color:white;
-	font-family: 1UP!;
+	color:rgb(255, 255, 255);
+	font-family: 'Dumb';
 }
 body {
 	font-size: 20px; 
-	color: white;
+	color: rgb(246, 246, 247);
 }
 audio {
 	align: right
@@ -99,3 +94,9 @@ audio {
 	}
 	
 	}
+	
+
+    @font-face {
+        font-family: "Dumb";
+        src: url("3dumb/3Dumb.ttf");
+    }
